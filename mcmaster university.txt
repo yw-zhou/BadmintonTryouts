@@ -1,0 +1,15 @@
+'Programs'
+{'Arts & Science':8901.07, 'Business':12511.03, 'Computer Science':11056.83, 'Engineering I':14696.51,  'Integrated Biomedical Engineering and Health Sciences':14696.51, 'Chemical and Physical Sciences':8971.57, 'Environmental Sciences':8971.57, 'Earth Sciences':8971.57, 'Integrated Science':8443.79, 'Life Sciences':8971.57, 'Health Sciences':8950.36, 'Kinesiology':8971.57, 'Mathematics and Statistics':8971.57, 'Medical Radiation Sciences':9070.93, 'Nursing':9172.27, 'Physical Sciences':1215.00, 'Social Sciences':8986.12}
+'Single Room'
+{'Single Room':7925.00, 'Single Room with Single-user Washroom':8275.00, 'Single Room with Ensuite Washroom':8575.00, 'Single Room with Connected Shared Washroom':8700.00, 'Super Single Room with Connected Shared Washroom':8800.00}
+'Double Room'
+{'Double Room':6885.00, 'Double Room with Single-user Washroom':7225.00, 'Double Room with Ensuite Washroom':7575.00, 'Double Room with Connected Shared Washroom':7850.00, 'Apartment - 2 Person':8325.00}
+'Triple Room'
+{Triple Room:6300.00, Lofted Triple Room with Single-user Washroom:6100.00}
+Quad Rooom
+{Quad Room:6675.00, Lofted Quad Room:5800.00, Apartment - 4/6 Person:8475.00, Suite - 4 Person:9000.00}
+Regular Meal Plan
+{Minimum:4355.00, Light:4555.00, Regular:4755.00, Varsity:4955.00}
+Reduced Meal Plan
+{Reduced Minimum:2995.00, Reduced Light:3195.00, Reduced Regular:3395.00, Reduced Varsity:3595.00}
+***

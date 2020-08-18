@@ -1,0 +1,13 @@
+'Programs'
+{'Actuarial Science':9930.00, 'Actuarial Science Coop':11590.00, 'Applied Mathematics':9930.00, 'Applied Mathematics Coop':11590.00, 'Architectural Engineering':20400.00, 'Architecture':15370.00, 'Biomedical Engineering':20400.00, 'Chemical Engineering':20400.00, 'Civil Engineering':20400.00, 'Computer Engineering':20400.00, 'Computer Science':17420.00, 'Computer Science Coop':19080.00, 'Data Science':9930.00, 'Data Science Coop':11590.00, 'Electrical Engineering':20400.00, 'Environmental Engineering':20400.00, 'Geological Engineering':20400.00, 'Geomatics':10140.00, 'Honours Science':10140.00, 'Life Sciences':10140.00, 'Management Engineering':20400.00, 'Mathematical Economics':9930.00, 'Mathematical Economics Coop':11590.00, 'Mathematical Finances':9930.00, 'Mathematical Finances Coop':11590.00, 'Mathematical Physics':9930.00, 'Mathematical Physics Coop':11590.00, 'Mathematics':9930.00, 'Mathematics Coop':11590.00, 'Mathematics/Business Administration':9930.00, 'Mathematics/Business Administration Coop':11590.00, 'Mathematics/Chartered Professional Accountancy':10200.00, 'Mathematics/Financial Analysis and Risk Management':13750.00, 'Mechanical Engineering':20400.00, 'Mechatronics Engineering':20400.00, 'Medicinal Chemistry':10150.00, 'Nanotechnology Engineering':20400.00, 'Physical Sciences':10150.00, 'Physics':10150.00, 'Pure Mathematics':9930.00, 'Pure Mathematics Coop':11590.00, 'Software Engineering':20400.00, 'Statistics':9930.00, 'Statistics Coop':11590.00, 'Systems Design Engineering':20400.00}
+'Single Room'
+{'Claudette Millar Hall':7061.00, 'Village 1':6437.00, 'Ron Eydt Village':6437.00, 'UW Place (2-bedroom)':6945.00, 'UW Place (3,4-bedroom)':6573.00, 'Mackenzie King Village (4-bedroom)':7684.00, 'Columbia Lake Village (4-person)':6140.00, "St. Jerome’s University":12064.00, "St. Paul’s University College":12135.00, "St. Paul’s University College (Super)":13395.00}
+'Double Room'
+{'UW Place':6065.00, 'Village 1':5775.00, 'Ron Edyt Village':5775.00, 'Claudette Millar Hall':6730.00, 'Renison University College (semi-private bathroom)':11110.00, 'Conrad Grebel University College':10830.00, 'Renison University College':10800.00, "St. Jerome’s University":11264.00, "St. Paul’s University College":11290.00}
+'Interconnecting Room'
+{'Village 1':6144.00, 'Ron Eydt Vllage':6144.00}
+'Regualr Meal Plan'
+{'Lite':4750.00, 'Average':5150.00, 'Hearty':5550.00}
+'Reduced Meal Plan'
+{'None':0.00, 'Basic':2600.00, 'Basic Plus':3200.00, 'Best Buy':3800.00}
+***
